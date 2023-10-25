@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "tl_walls",
+  "name": "ts_walls",
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
