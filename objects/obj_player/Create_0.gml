@@ -6,4 +6,3 @@ grv = 0.3;
 walksp = 4;
 jumpsp = 10;
 
-coins = 0; 

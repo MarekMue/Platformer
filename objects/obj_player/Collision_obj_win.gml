@@ -1,9 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+global.won = 1;
 
-room_restart()
 
-global.coins = 0;
+
 
 
