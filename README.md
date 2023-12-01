@@ -1,4 +1,4 @@
-Platformer
+## Platformer
 
 Features Implemented:
 * Added custom sprites
@@ -12,3 +12,7 @@ Features implemented from tutorial:
 * Rooms
 * Background and Foreground objects
 * Basic platformer mechanics
+
+
+## Credits:
+The assets and video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding). Check out Shaun's amazing collections of videos.
