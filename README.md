@@ -7,7 +7,7 @@ Features Implemented:
 * Added a win screen
 
 Features implemented from tutorial:
-* Sprite system that changes depending on input
+* Animated sprite system that changes depending on input
 * Working tileset
 * Rooms
 * Background and Foreground objects
